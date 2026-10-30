@@ -2,10 +2,10 @@
   "keys": [
     {
       "kty": "RSA",
-      "alg": "RS384",
       "use": "sig",
-      "kid": "afb27c284f2d93959c18fa0320e32088",
-      "n": "vUKrw51AC4V2hKitOXHZ464g0dWqS6Tv0j9DDwvU6wD-m2YJYWLUTK7M9J_hceyc0V72YY6r97r23Uemg8xQFgfy4a2g9N0shbRacsQFa0UOTBzWEIMFMnGPxjWpbAbwZ2E4ZIv9BAGrhep0sw-S4Rrz5lWhqyI78KvwLmLeGffjW-dop_J_foPxNhmuygjAz4ZAm3D8ezKn-Xc2phdyjMAMZ8MSsG_rRkOXCysb6QY55UTFUKZGALZ1t41XrIvBC_o0zXujjeDJWlykppS53sI_hU3PaB0IkxrrGZ8DMifjctkoek79MobLOcXhi_buv5CFMF2kKNSOWDQ-dWvLew",
+      "alg": "RS384",
+      "kid": "afb27c284f2d93959c18fa0320e32060",
+      "n": "vn_OEXYh4mp4l2eFmlr3fqvEekyr319iCnd7ruXnw_cntUgphof0RUvyDu3mtBhXah5D65lVi4ienEM3NQCWOc8K-Ln4wp7rG4szm0sqoOf8AZRNuUtTdOd4bshZt1Aptdyzm1pLSs-xBH5c4fvLZLV9ddXyWMfCt8YO3CbYkv1TrfiC_jd3fOZDudI3vVQsYsnrXHg0sOeXDbPkafvAhYOk4GHuj9gtvpyR8GoHojkmYmlIw_uC9rWXPE9X9QuQ-DNf2qNYCM-ZsTkFQotkp1fvrE38csW6auMioaEw1AmxY5hOH03iYOyTTuk0jsCaXtTWxTnBpc9IYXDRvONzow",
       "e": "AQAB"
     }
   ]
