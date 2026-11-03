@@ -1,12 +1,1 @@
-{
-  "keys": [
-    {
-      "kty": "RSA",
-      "kid": "ecw-bulk-app",
-      "use": "sig",
-      "alg": "RS384",
-      "n": "4ZWpE-AC-XyqsyTObNZITPIrm3P3tFwvPmKA6l5WFgrbpwwTkeWqfIdkkS-cMC8l5Z5JnXapMLLCFnnKiGu8lPpDRsnP17qzigNawj449Ycat5CifsAhO7OPW4G1x9-LGS6DPSLoNgnXmDpTlgLg5Ch3hHfTIvkh-H4DfuuFs7uu84yKSk2H7Hbs4vhDzFLcWue-RFW0m1HVslmKsWyCD7eAYpXc5eKIa4kaPBOHWbf7SmfCmPv3U0YNzrOye2skp_AZcu3PrMcotaYD0PGh4v1LnlhR_06MDookEwtetrsbqbf2UuDcK49dV04_PbhYBCa32G4Jd6nAX6VCxZDU2Q",
-      "e": "AQAB"
-    }
-  ]
-}
+PIECE OF CRAP
