@@ -4,8 +4,8 @@
       "kty": "RSA",
       "kid": "ecw-bulk-app",
       "use": "sig",
-      "alg": "RS384",
-      "n": "oHIMA1YNELoxpFUaLA3w0xOWqKk8fv9YSAVFcuBxzqqBSs10-yk07NwuyaC21eoyH6XHFy3nFRkJKNr5ivZIb5CZai58TKy1Vzga-TOSjmQPMhgV8NiA6ITjoGVt4LTY6Z90rl9r9u59vPmlcp5CB0PXajZ_bKglKkP-6UzypZUR377dtBVJASeCqHnNIaH1v9CqFSIRV7k3vriNi9BHqxVu2eUy8-5QE-vQJP6KneR6I_zRwpJOfKurcYtCKytRjWP7llbp9JTirhMsJR5pER30VPvM8eXavKFYTFTiQgJjBllT9o_mxLSI4iMosg9fnDTncB88kBwZzsejAFaajw",
+      "alg": "RS256",
+      "n": "lASxYlKgdq_lbyqRbuGnec_Hg6H6DDTrYt3b-doLeCl9_2QxQmbFDqCYwpZejDZ9_79afOfns7vzfxxB7tXtz-4MhxADNN-3PkbuKpf4VFJv-u-4iNNBBUyp2c31oworPDyi2mBK5dVp4OZSjArwWt1a7DacSKsnWFdY5Cf5q0AweEwbxHHT-fj76ghPuPj8zS7yTBHC610FFTvXM6LXX2kCcD1Q0P_dnFBacaYjeJFZZviPSPU12-vHcEI1ElhkfLq_FTm9GXx280BICVQMQn39BcbcVzwWwokjsllBAu4Ay5FmuRzlgN648s9TEu24uUp8_5HNqzJ0mucve9HpBw",
       "e": "AQAB"
     }
   ]
