@@ -2,10 +2,10 @@
   "keys": [
     {
       "kty": "RSA",
-      "alg": "RS384",
+      "kid": "ecw-bulk-app",
       "use": "sig",
-      "kid": "afb27c284f2d93959c18fa0320e32088",
-      "n": "vUKrw51AC4V2hKitOXHZ464g0dWqS6Tv0j9DDwvU6wD-m2YJYWLUTK7M9J_hceyc0V72YY6r97r23Uemg8xQFgfy4a2g9N0shbRacsQFa0UOTBzWEIMFMnGPxjWpbAbwZ2E4ZIv9BAGrhep0sw-S4Rrz5lWhqyI78KvwLmLeGffjW-dop_J_foPxNhmuygjAz4ZAm3D8ezKn-Xc2phdyjMAMZ8MSsG_rRkOXCysb6QY55UTFUKZGALZ1t41XrIvBC_o0zXujjeDJWlykppS53sI_hU3PaB0IkxrrGZ8DMifjctkoek79MobLOcXhi_buv5CFMF2kKNSOWDQ-dWvLew",
+      "alg": "RS384",
+      "n": "oHIMA1YNELoxpFUaLA3w0xOWqKk8fv9YSAVFcuBxzqqBSs10-yk07NwuyaC21eoyH6XHFy3nFRkJKNr5ivZIb5CZai58TKy1Vzga-TOSjmQPMhgV8NiA6ITjoGVt4LTY6Z90rl9r9u59vPmlcp5CB0PXajZ_bKglKkP-6UzypZUR377dtBVJASeCqHnNIaH1v9CqFSIRV7k3vriNi9BHqxVu2eUy8-5QE-vQJP6KneR6I_zRwpJOfKurcYtCKytRjWP7llbp9JTirhMsJR5pER30VPvM8eXavKFYTFTiQgJjBllT9o_mxLSI4iMosg9fnDTncB88kBwZzsejAFaajw",
       "e": "AQAB"
     }
   ]
